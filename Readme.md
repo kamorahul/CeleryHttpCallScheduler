@@ -8,7 +8,6 @@ To start Producer
 
     FLASK_APP=sequlizer.py
     flask run
-    this will start the producer
     
 To Start Worker
             
