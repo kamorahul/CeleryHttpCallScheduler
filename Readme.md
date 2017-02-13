@@ -14,4 +14,4 @@ To Start Worker
      celery -A tasks worker -l info
     
     
-Modify the Tasks.py to set the address of mongo for storing logs and rebbit mq to change the broker.
+Modify the Tasks.py to set the address of mongo for storing logs and rabbit mq to change the broker.
